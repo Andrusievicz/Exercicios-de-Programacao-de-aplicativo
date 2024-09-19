@@ -1,0 +1,140 @@
+Atividade 1
+
+CONSTRUIR UM PROGRAMA EM C QUE CALCULE A
+RESISTÊNCIA DE CIRCUITOS EM SÉRIE E PARALELO PARA 3 RESISTÊNCIAS
+
+SÉRIE =  Rt=R1+R2+R3 (caso não existir valor de
+uma ou mais resistências utilizar a fórmula R=V(voltagem)/I(corrente)
+PARALELO
+1/Rt=1/R1+1/R2+1/R3
+
+Atividade 2
+
+CONSTRUIR UM PROGRAMA EM C QUE CALCULE A
+RESISTÊNCIA DE CIRCUITOS EM SÉRIE E PARALELO PARA "n" RESISTÊNCIAS
+
+SÉRIE =  Rt=R1+R2+R3+....+Rn (caso não existir valor de
+uma ou mais resistências utilizar a fórmula R=V(voltagem)/I(corrente)
+PARALELO
+1/Rt=1/R1+1/R2+1/R3....1/Rn
+
+Atividade 3 
+
+CONSTRUIR UM PROGRAMA EM C QUE CALCULE A
+
+MÉDIA ARITMÉTICA ENTRE 4 NOTAS
+SENDO QUE MÉDIA >=7 APROVADO SE NÃO REPROVADO
+
+Atividade 4
+
+CONSTRUIR UM PROGRAMA EM C QUE CALCULE A
+
+MÉDIA ARITMÉTICA ENTRE "n" NOTAS
+SENDO QUE MÉDIA >=7 APROVADO SE NÃO REPROVADO
+
+Atividade 5
+
+CONSTRUIR UM PROGRAMA QUE CALCULE OS SEGUINTES ÍTENS CONFORME OS DADOS
+INFORMADOS:
+
+- INFORMAR Distância percorrida
+
+- INFORMAR  Consumo médio do veículo (Km/l)
+
+- INFORMAR Preço do combustível por litro(R$)
+
+- INFORMAR Tamanho do Tanque de Combustível (l)
+
+
+
+CALCULAR O VALOR TOTAL GASTO(R$) = (Distância Percorrida/Consumo médio do
+veículo (Km/l))*Preço do combustível por litro(R$)
+
+CALCULAR O CONSUMO(R$)/LITRO(l)=VALOR TOTAL GASTO(R$)/Preço do combustível
+por litro(R$)
+
+CALCULAR A QUANTIDADE DE TANQUES DE COMBUSTÍVEL UTILIZADOS=VALOR TOTAL
+GASTO(R$)/(Tamanho do Tanque de Combustível (l)*Preço do combustível por
+litro(R$))
+
+
+DEVERÁ SER REALIZADO O CÁLCULO UTILIZANDO, AO MESMO TEMPO, OS COMBUSTÍVEIS
+ETANOL, GASOLINA E DIESEL
+
+Atividade 6
+
+CONSTRUIR
+UM PROGRAMA QUE INFORME UM VALOR E REALIZE A CONVERSÃO PARA AS TEMPERATURAS
+CELCIU, KELVEIN E FAHRENHEIT
+
+
+
+CELCIUS PARA FAHRENHEIT ----> F=C*1.8+32
+
+FAHRENHEIT PARA CELCIUS ----> C=(F-32)/1.8
+
+CELCIUS PARA KELVIN ----> K=C+273.15
+
+KELVIN PARA CELCIUS ----> C=K-273.15
+
+Atividade 7
+
+CONSTRUIR
+UM PROGRAMA QUE  
+
+
+Faça um algoritmo que calcule o IMC (Índice de Massa Corporal) de uma pessoa, leia o seu peso e sua altura e imprima na tela sua condição 
+de acordo com a tabela abaixo:
+Fórmula do IMC = peso / (altura) ²
+Tabela Condições IMC
+  
+ Abaixo de 18,5   | Abaixo do peso          
+ Entre 18,6 e 24,9 | Peso ideal (parabéns)  
+ Entre 25,0 e 29,9 | Levemente acima do peso
+ Entre 30,0 e 34,9 | Obesidade grau I 
+ Entre 35,0 e 39,9 | Obesidade grau II (severa)
+ Maior ou igual a 40 | Obesidade grau III (mórbida)
+
+Atividade 8
+
+CONSTRUIR UM PROGRAMA QUE  
+
+ leia o valor de um produto e determine o valor que deve ser pago, conforme a escolha da forma de pagamento
+ pelo comprador e imprima na tela o valor final do produto a ser pago. Utilize os códigos da tabela de condições de pagamento para efetuar o cálculo adequado.
+ 
+ Tabela de Código de Condições de Pagamento
+ 
+ 1 - À Vista em Dinheiro ou Pix, recebe 15% de desconto
+ 2 - À Vista no cartão de crédito, recebe 10% de desconto
+ 3 - Parcelado no cartão em duas vezes, preço normal do produto sem juros
+ 4 - Parcelado no cartão em três vezes ou mais, preço normal do produto mais juros de 10%
+
+Atividade 9
+
+Montar um programa em C que faça um menu com todas as atividades realizadas(de 01-08)
+
+Atividade 10
+
+Realizar uma pesquisa entre C e C# com os seguintes ítens:
+-Comandos de Entrada e Saída de Dados
+- Tipos de dados
+-Operadores Aritméticos
+-Operadores de Atribuição
+-Operadores Lógicos 
+-Operadores Relacionais
+-Operadores de Incremento e decremento
+
+
+-Instrução  de Decisão
+-Instrução de Condição
+- Instruções de Repetição
+
+Apresentação deverá ser em .PPT
+No primeiro slide deverá constar o seguinte:
+- Nome da turma:
+- Nome do aluno:
+
+
+
+
+

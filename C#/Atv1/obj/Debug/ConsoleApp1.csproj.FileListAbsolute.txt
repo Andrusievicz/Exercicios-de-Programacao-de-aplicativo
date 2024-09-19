@@ -1,0 +1,7 @@
+C:\Users\ivone\Desktop\Programação de Aplicativo\C#\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\ivone\Desktop\Programação de Aplicativo\C#\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\ivone\Desktop\Programação de Aplicativo\C#\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\ivone\Desktop\Programação de Aplicativo\C#\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.AssemblyReference.cache
+C:\Users\ivone\Desktop\Programação de Aplicativo\C#\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\ivone\Desktop\Programação de Aplicativo\C#\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\ivone\Desktop\Programação de Aplicativo\C#\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
