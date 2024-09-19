@@ -1,0 +1,7 @@
+C:\Users\ivone\Desktop\Programação de Aplicativo\C#\Atv6\bin\Debug\Atv6.exe.config
+C:\Users\ivone\Desktop\Programação de Aplicativo\C#\Atv6\bin\Debug\Atv6.exe
+C:\Users\ivone\Desktop\Programação de Aplicativo\C#\Atv6\bin\Debug\Atv6.pdb
+C:\Users\ivone\Desktop\Programação de Aplicativo\C#\Atv6\obj\Debug\Atv6.csproj.AssemblyReference.cache
+C:\Users\ivone\Desktop\Programação de Aplicativo\C#\Atv6\obj\Debug\Atv6.csproj.CoreCompileInputs.cache
+C:\Users\ivone\Desktop\Programação de Aplicativo\C#\Atv6\obj\Debug\Atv6.exe
+C:\Users\ivone\Desktop\Programação de Aplicativo\C#\Atv6\obj\Debug\Atv6.pdb

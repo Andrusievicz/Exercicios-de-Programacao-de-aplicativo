@@ -1,0 +1,7 @@
+C:\Users\ivone\Desktop\Programação de Aplicativo\C#\Atv4\bin\Debug\Atv4.exe.config
+C:\Users\ivone\Desktop\Programação de Aplicativo\C#\Atv4\bin\Debug\Atv4.exe
+C:\Users\ivone\Desktop\Programação de Aplicativo\C#\Atv4\bin\Debug\Atv4.pdb
+C:\Users\ivone\Desktop\Programação de Aplicativo\C#\Atv4\obj\Debug\Atv4.csproj.AssemblyReference.cache
+C:\Users\ivone\Desktop\Programação de Aplicativo\C#\Atv4\obj\Debug\Atv4.csproj.CoreCompileInputs.cache
+C:\Users\ivone\Desktop\Programação de Aplicativo\C#\Atv4\obj\Debug\Atv4.exe
+C:\Users\ivone\Desktop\Programação de Aplicativo\C#\Atv4\obj\Debug\Atv4.pdb

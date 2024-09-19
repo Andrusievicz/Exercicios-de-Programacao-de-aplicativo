@@ -1,0 +1,7 @@
+C:\Users\ivone\Desktop\Programação de Aplicativo\C#\Atv9\bin\Debug\Atv9.exe.config
+C:\Users\ivone\Desktop\Programação de Aplicativo\C#\Atv9\bin\Debug\Atv9.exe
+C:\Users\ivone\Desktop\Programação de Aplicativo\C#\Atv9\bin\Debug\Atv9.pdb
+C:\Users\ivone\Desktop\Programação de Aplicativo\C#\Atv9\obj\Debug\Atv9.csproj.AssemblyReference.cache
+C:\Users\ivone\Desktop\Programação de Aplicativo\C#\Atv9\obj\Debug\Atv9.csproj.CoreCompileInputs.cache
+C:\Users\ivone\Desktop\Programação de Aplicativo\C#\Atv9\obj\Debug\Atv9.exe
+C:\Users\ivone\Desktop\Programação de Aplicativo\C#\Atv9\obj\Debug\Atv9.pdb
